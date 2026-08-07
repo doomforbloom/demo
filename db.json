@@ -1,46 +1,31 @@
-[
+{
+  "posts": [
     {
-        "id": "bda33adca828c09dc3cac3a856aef176",
-        "sport_key": "americanfootball_nfl",
-        "commence_time": "2021-09-10T00:20:00Z",
-        "home_team": "Tampa Bay Buccaneers",
-        "away_team": "Dallas Cowboys",
-        "bookmakers": [
-            {
-                "key": "betmgm",
-                "title": "BetMGM",
-                "last_update": "2021-06-10T13:32:45Z",
-                "markets": [
-                    {
-                        "key": "h2h",
-                        "outcomes": [
-                            {
-                                "name": "Dallas Cowboys",
-                                "price": 225
-                            },
-                            {
-                                "name": "Tampa Bay Buccaneers",
-                                "price": -275
-                            }
-                        ]
-                    },
-                    {
-                        "key": "spreads",
-                        "outcomes": [
-                            {
-                                "name": "Dallas Cowboys",
-                                "price": -110,
-                                "point": 6.5
-                            },
-                            {
-                                "name": "Tampa Bay Buccaneers",
-                                "price": -110,
-                                "point": -6.5
-                            }
-                        ]
-                    }
-                ]
-            },
-        ]
+      "id": 1,
+      "title": "Poopy post"
     },
-]
+    {
+      "id": 2,
+      "title": "Post 2"
+    },
+    {
+      "id": 3,
+      "title": "Post 3"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    },
+    {
+      "id": 2,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

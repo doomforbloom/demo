@@ -146,41 +146,6 @@
                     }
                 ]
             },
-            {
-                "key": "bovada",
-                "title": "Bovada",
-                "last_update": "2021-06-10T13:35:51Z",
-                "markets": [
-                    {
-                        "key": "h2h",
-                        "outcomes": [
-                            {
-                                "name": "Dallas Cowboys",
-                                "price": 240
-                            },
-                            {
-                                "name": "Tampa Bay Buccaneers",
-                                "price": -290
-                            }
-                        ]
-                    },
-                    {
-                        "key": "spreads",
-                        "outcomes": [
-                            {
-                                "name": "Dallas Cowboys",
-                                "price": -110,
-                                "point": 6.5
-                            },
-                            {
-                                "name": "Tampa Bay Buccaneers",
-                                "price": -110,
-                                "point": -6.5
-                            }
-                        ]
-                    }
-                ]
-            },
         ]
     },
 ]
